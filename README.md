@@ -1,4 +1,4 @@
-# "Live" Mobile Phone Price & Spec Tracker - A complete end to end data analytics project
+# "Live" Laptop Price Tracker - A complete end to end data analytics project
 
 **Project Status:** In Progress (Phase 1: Web Scraping - Complete)
 
