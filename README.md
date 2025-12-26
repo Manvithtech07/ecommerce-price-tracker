@@ -11,7 +11,7 @@ In the volatile electronics market, how do prices and specs for gaming laptops c
 ## 2. Tech Stack & Pipeline
 | Phase | Technology | Purpose |
 |-------|------------|---------|
-| **1. Extraction** | **Selenium & BeautifulSoup** | **Scrapes live laptop prices from Amazon.in** |
+| **1. WebScraping** | **Selenium & BeautifulSoup** | **Scrapes live laptop prices from Amazon.in** |
 | 2. Cleaning | Pandas | Cleans and structures raw data (removing currency symbols, etc.) |
 | 3. Storage | MySQL | Stores historical price data for trend analysis |
 | 4. Visualization | Power BI | Interactive dashboard for insights |
